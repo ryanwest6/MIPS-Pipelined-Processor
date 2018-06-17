@@ -1,7 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "J:/ecen323/mips_pipeline_newest/mips_pipeline_newest.srcs/sources_1/new/mips_forwarding_pipeline.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module mips_forwarding_pipeline
-INFO: [VRFC 10-2263] Analyzing Verilog file "J:/ecen323/mips_pipeline_newest/mips_pipeline_newest.srcs/sim_1/new/tb_forwarding_pipeline.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_forwarding_pipeline
-WARNING: [VRFC 10-986] literal value truncated to fit in 32 bits [J:/ecen323/mips_pipeline_newest/mips_pipeline_newest.srcs/sim_1/new/tb_forwarding_pipeline.v:128]
-INFO: [VRFC 10-2263] Analyzing Verilog file "J:/ecen323/mips_pipeline_newest/mips_pipeline_newest.sim/sim_1/behav/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
