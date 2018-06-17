@@ -1,0 +1,5 @@
+// Data memory for pipelined MIPs
+00000001
+00000002
+00000003
+
