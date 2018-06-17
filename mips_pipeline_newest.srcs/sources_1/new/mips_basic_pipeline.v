@@ -3,7 +3,7 @@
 // @author: Ryan West
 //
 // This is an implementation of a simple soft processor using the MIPS instruction
-// set architecture. This version does not using pipelineing or forwarding.
+// set architecture. This version does not use forwarding.
 
 `timescale 1ns / 1ps
 
