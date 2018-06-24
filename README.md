@@ -7,4 +7,4 @@ View the Verilog implementation of the processor:
 
 `mips_forwarding_pipeline.v` includes a 5-stage pipeline with full forwarding from the ALU and data memory, as well as detection and correction of various hazards that may occur.
 
-[Pipelined Processor](mips_pipeline_newest.srcs/sources_1/new/mips_forwarding_pipeline.v)
+[Forwarding Processor](mips_pipeline_newest.srcs/sources_1/new/mips_forwarding_pipeline.v)
