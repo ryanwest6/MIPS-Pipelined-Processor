@@ -4,7 +4,12 @@ View the Verilog implementation of the processor:
 
 [Basic Processor](mips_pipeline_newest.srcs/sources_1/new/mips_basic_pipeline.v)
 
+[Forwarding Processor](mips_pipeline_newest.srcs/sources_1/new/mips_forwarding_pipeline.v)
 
 `mips_forwarding_pipeline.v` includes a 5-stage pipeline with full forwarding from the ALU and data memory, as well as detection and correction of various hazards that may occur.
 
-[Forwarding Processor](mips_pipeline_newest.srcs/sources_1/new/mips_forwarding_pipeline.v)
+Here is a high-level layout of the processor design that I used:
+
+![MIPS High-Level Layout](mipslayout.png "MIPS High-Level Layout")
+
+Picture credits to the Computer Organization and Design, 5th Edition textbook.
