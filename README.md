@@ -12,4 +12,6 @@ Here is a high-level layout of the processor design that I used:
 
 ![MIPS High-Level Layout](mipslayout.png "MIPS High-Level Layout")
 
+This is a basic implementation and does not implement all instructions in the MIPS architecture.
+
 Picture credits to the Computer Organization and Design, 5th Edition textbook.
